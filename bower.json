@@ -1,0 +1,17 @@
+{
+    "name": "fanwoodtext-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Barry Schwartz"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/fanwoodtext-bower.git"
+    },
+    "description": "Fanwood Text font",
+    "keywords": [
+        "font",
+        "SERIF"
+    ]
+}
